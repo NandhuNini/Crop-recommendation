@@ -1,0 +1,1001 @@
+Soil Type,pH Level,Nitrogen Level (ppm),Phosphorus Level (ppm),Potassium Level (ppm),Moisture Level (%),Temperature (°C),Crop Recommendation,Fertilizer Recommendation,Water Retention Days
+Clay,5.6,105,103,109,38.74,33.23,Rice,Urea,5
+Chalky,6.59,187,56,180,20.49,21.13,Mustard,Potash,14
+Chalky,5.53,75,53,156,48.39,22.39,Mustard,Potash,6
+Clay,6.08,118,144,188,14.43,24.43,Rice,Urea,5
+Sandy,6.05,54,65,222,33.14,22.11,Potato,NPK,7
+Sandy,6.69,102,62,117,10.0,25.46,Potato,NPK,11
+Peaty,6.94,114,122,225,45.03,21.55,Onion,Ammonium Sulphate,10
+Loamy,6.68,94,91,268,20.77,28.6,Barley,Ammonium Nitrate,5
+Silty,7.32,198,131,240,29.6,20.71,Tomato,Compost,4
+Peaty,7.46,104,91,130,18.75,32.04,Onion,Ammonium Sulphate,11
+Peaty,6.88,59,51,212,21.83,21.95,Lettuce,Compost,14
+Chalky,5.83,177,100,291,39.1,31.16,Mustard,Potash,14
+Loamy,6.35,146,48,171,24.41,34.43,Maize,DAP,13
+Silty,6.69,126,105,136,45.06,27.83,Tomato,Compost,4
+Chalky,5.7,89,99,181,14.07,31.82,Broccoli,Urea,9
+Silty,5.78,160,90,288,37.84,25.53,Cabbage,Vermicompost,8
+Silty,6.96,169,50,245,27.76,26.99,Tomato,Compost,5
+Silty,7.41,131,132,252,11.75,31.19,Cabbage,Vermicompost,11
+Clay,6.41,119,67,296,41.81,24.41,Rice,Urea,5
+Sandy,7.43,52,108,205,14.07,22.44,Peanut,Single Super Phosphate,14
+Chalky,6.95,116,96,164,29.98,33.94,Broccoli,Urea,7
+Sandy,6.46,78,128,140,33.99,31.59,Carrot,Potash,12
+Sandy,7.06,190,66,170,38.03,24.77,Peanut,Single Super Phosphate,4
+Silty,5.72,54,84,227,42.65,22.54,Tomato,Compost,4
+Chalky,6.36,134,67,260,24.26,25.78,Broccoli,Urea,7
+Peaty,7.17,148,99,294,19.99,20.02,Lettuce,Compost,6
+Clay,6.23,51,95,166,29.12,25.26,Cotton,NPK,6
+Silty,6.78,68,122,290,47.5,31.99,Soybean,Bone Meal,4
+Chalky,6.6,150,82,186,26.93,23.77,Beetroot,NPK,8
+Chalky,7.43,172,122,102,21.48,23.5,Broccoli,Urea,4
+Peaty,6.51,113,138,239,42.78,20.05,Lettuce,Compost,6
+Peaty,7.38,119,56,172,40.49,32.16,Lettuce,Compost,12
+Sandy,7.14,156,42,179,25.67,30.74,Carrot,Potash,9
+Sandy,6.42,192,90,206,18.9,31.45,Carrot,Potash,15
+Chalky,6.89,157,117,194,45.74,20.96,Mustard,Potash,7
+Peaty,6.38,193,96,275,29.74,32.84,Spinach,Organic Fertilizer,10
+Clay,7.44,123,114,257,43.51,27.87,Cotton,NPK,10
+Chalky,6.97,52,147,287,13.19,24.78,Mustard,Potash,14
+Loamy,5.79,98,75,281,48.33,33.79,Barley,Ammonium Nitrate,3
+Peaty,5.52,55,46,153,28.01,20.87,Lettuce,Compost,5
+Silty,7.46,52,145,231,48.98,22.31,Cabbage,Vermicompost,6
+Chalky,5.99,146,145,200,24.89,30.45,Beetroot,NPK,5
+Loamy,5.61,112,129,264,38.21,22.23,Maize,DAP,10
+Loamy,6.9,117,34,226,31.44,28.21,Wheat,Urea,3
+Sandy,7.43,103,95,148,42.46,32.49,Carrot,Potash,4
+Chalky,7.22,169,47,249,25.76,23.11,Beetroot,NPK,6
+Silty,5.99,119,140,119,18.51,27.23,Tomato,Compost,3
+Sandy,5.54,130,47,122,27.04,31.19,Potato,NPK,5
+Chalky,5.78,82,88,201,24.73,27.1,Beetroot,NPK,10
+Sandy,5.75,88,128,164,12.46,25.5,Potato,NPK,9
+Clay,6.54,195,108,179,39.8,27.41,Cotton,NPK,7
+Loamy,5.9,191,80,288,34.37,24.02,Barley,Ammonium Nitrate,8
+Peaty,5.65,141,50,107,24.75,31.07,Spinach,Organic Fertilizer,5
+Loamy,7.45,57,37,227,30.91,27.3,Barley,Ammonium Nitrate,11
+Clay,6.25,196,74,107,45.69,28.59,Rice,Urea,8
+Loamy,6.67,51,104,175,44.4,34.2,Maize,DAP,15
+Loamy,6.37,76,116,227,38.81,27.18,Maize,DAP,13
+Silty,5.72,144,89,266,14.21,33.6,Soybean,Bone Meal,5
+Sandy,6.03,120,145,133,49.56,29.55,Carrot,Potash,4
+Chalky,5.57,86,130,167,15.75,27.33,Mustard,Potash,10
+Sandy,7.04,87,35,121,25.32,24.19,Peanut,Single Super Phosphate,13
+Clay,6.3,87,56,155,24.83,23.98,Cotton,NPK,10
+Clay,5.72,64,48,289,19.23,31.05,Sugarcane,MOP,10
+Silty,5.86,168,148,160,25.0,24.69,Cabbage,Vermicompost,11
+Clay,5.68,61,104,174,46.59,33.46,Sugarcane,MOP,3
+Peaty,6.85,147,57,232,44.54,23.75,Lettuce,Compost,6
+Peaty,6.74,160,71,249,48.38,30.81,Onion,Ammonium Sulphate,8
+Silty,6.54,79,66,276,45.14,21.13,Cabbage,Vermicompost,3
+Chalky,5.84,116,119,239,35.29,33.93,Beetroot,NPK,11
+Loamy,6.78,53,150,188,40.92,31.87,Maize,DAP,7
+Sandy,6.23,96,93,115,25.26,21.38,Potato,NPK,5
+Peaty,6.05,137,110,120,46.0,31.69,Lettuce,Compost,7
+Sandy,7.1,147,61,284,46.3,25.85,Peanut,Single Super Phosphate,5
+Loamy,6.52,149,53,219,10.29,20.92,Barley,Ammonium Nitrate,7
+Sandy,6.25,56,102,175,33.69,34.12,Potato,NPK,4
+Peaty,6.76,135,89,130,30.47,33.67,Onion,Ammonium Sulphate,7
+Clay,6.38,102,34,208,42.38,25.22,Rice,Urea,10
+Peaty,7.47,61,119,241,32.96,32.17,Onion,Ammonium Sulphate,14
+Silty,6.37,89,94,255,30.08,23.18,Cabbage,Vermicompost,10
+Chalky,7.24,59,129,224,11.18,26.21,Beetroot,NPK,5
+Peaty,5.97,172,124,164,36.17,28.25,Spinach,Organic Fertilizer,15
+Silty,5.7,154,67,170,40.23,25.5,Cabbage,Vermicompost,6
+Clay,6.98,78,68,179,30.75,26.63,Cotton,NPK,9
+Sandy,7.14,116,141,273,47.67,34.72,Carrot,Potash,7
+Peaty,5.52,132,62,149,49.73,27.31,Lettuce,Compost,12
+Clay,5.68,157,114,136,27.05,20.82,Cotton,NPK,15
+Chalky,6.23,149,90,269,40.59,27.93,Broccoli,Urea,12
+Clay,6.81,141,104,271,19.76,21.84,Sugarcane,MOP,14
+Peaty,6.46,158,63,221,18.12,26.03,Onion,Ammonium Sulphate,9
+Loamy,5.71,93,37,293,48.14,30.71,Wheat,Urea,3
+Loamy,5.81,173,71,227,12.47,26.76,Maize,DAP,13
+Peaty,5.51,77,69,180,41.74,25.24,Spinach,Organic Fertilizer,13
+Chalky,6.63,149,120,254,22.35,24.66,Mustard,Potash,15
+Silty,5.64,181,125,219,12.54,31.99,Cabbage,Vermicompost,9
+Clay,7.0,177,58,155,39.08,30.03,Rice,Urea,11
+Loamy,5.76,119,84,291,11.7,21.42,Wheat,Urea,15
+Sandy,5.73,126,84,294,10.04,21.14,Carrot,Potash,3
+Chalky,5.87,152,54,138,44.89,28.21,Broccoli,Urea,4
+Peaty,6.89,121,124,165,12.09,29.6,Lettuce,Compost,5
+Silty,5.75,188,36,225,37.14,22.51,Cabbage,Vermicompost,8
+Clay,6.38,62,62,287,40.21,30.95,Rice,Urea,10
+Sandy,7.33,194,38,162,26.22,25.43,Potato,NPK,9
+Sandy,7.2,120,44,117,41.71,21.75,Peanut,Single Super Phosphate,9
+Sandy,6.46,184,91,161,45.49,20.8,Potato,NPK,6
+Clay,5.62,57,106,272,37.79,33.92,Sugarcane,MOP,9
+Loamy,5.89,53,143,199,20.38,29.01,Maize,DAP,4
+Clay,6.24,106,51,216,39.97,29.46,Rice,Urea,3
+Peaty,6.78,116,43,277,25.38,23.11,Onion,Ammonium Sulphate,4
+Clay,5.62,154,86,234,43.65,23.28,Rice,Urea,13
+Peaty,7.27,166,86,244,15.72,32.63,Lettuce,Compost,11
+Clay,5.72,121,37,245,19.75,28.01,Cotton,NPK,5
+Loamy,5.64,188,132,230,38.97,33.71,Maize,DAP,4
+Sandy,7.47,134,127,201,25.12,28.74,Carrot,Potash,5
+Loamy,6.59,125,134,273,38.57,24.28,Maize,DAP,5
+Sandy,6.12,128,100,278,45.45,20.53,Carrot,Potash,5
+Clay,7.34,86,144,154,17.53,30.44,Sugarcane,MOP,6
+Silty,6.35,76,130,143,32.57,33.85,Tomato,Compost,12
+Peaty,6.14,127,93,166,23.08,24.77,Spinach,Organic Fertilizer,11
+Chalky,6.75,52,139,286,18.77,29.74,Broccoli,Urea,9
+Peaty,6.2,157,80,136,31.92,21.86,Spinach,Organic Fertilizer,3
+Loamy,6.42,112,73,113,44.49,26.47,Barley,Ammonium Nitrate,14
+Loamy,6.84,158,120,224,35.17,20.53,Wheat,Urea,6
+Peaty,6.31,107,145,150,34.67,25.92,Onion,Ammonium Sulphate,4
+Silty,7.36,130,141,210,16.94,30.34,Soybean,Bone Meal,3
+Sandy,7.16,87,149,145,16.57,23.46,Potato,NPK,9
+Peaty,7.47,163,129,223,45.03,31.21,Spinach,Organic Fertilizer,3
+Clay,6.98,161,126,105,49.63,28.88,Sugarcane,MOP,11
+Sandy,6.13,164,88,279,36.47,30.91,Peanut,Single Super Phosphate,13
+Clay,5.51,153,78,104,45.19,31.12,Cotton,NPK,11
+Clay,6.78,173,135,119,48.04,20.27,Rice,Urea,9
+Peaty,6.46,164,132,248,33.02,24.62,Spinach,Organic Fertilizer,9
+Sandy,7.26,112,116,241,32.56,34.43,Carrot,Potash,7
+Loamy,6.14,138,134,224,12.3,23.55,Wheat,Urea,12
+Loamy,6.53,141,82,296,17.23,23.02,Wheat,Urea,10
+Sandy,7.02,114,98,107,30.21,32.37,Carrot,Potash,7
+Loamy,6.01,165,78,208,33.63,33.32,Maize,DAP,10
+Clay,5.9,155,126,183,27.23,26.54,Rice,Urea,14
+Silty,7.06,129,58,213,30.7,21.68,Tomato,Compost,12
+Silty,7.43,195,52,155,12.91,33.34,Cabbage,Vermicompost,10
+Peaty,7.38,136,123,275,48.94,21.5,Onion,Ammonium Sulphate,12
+Chalky,6.1,184,140,105,20.24,31.49,Beetroot,NPK,7
+Peaty,7.17,172,40,221,47.34,26.3,Onion,Ammonium Sulphate,3
+Silty,6.25,111,126,262,49.71,30.22,Tomato,Compost,13
+Silty,6.12,160,84,147,13.3,22.12,Tomato,Compost,14
+Peaty,6.05,97,33,234,43.09,26.99,Lettuce,Compost,9
+Silty,6.44,137,51,113,14.14,23.3,Cabbage,Vermicompost,9
+Clay,5.94,159,104,143,35.25,26.3,Cotton,NPK,9
+Sandy,6.63,177,147,291,22.58,23.2,Potato,NPK,10
+Loamy,5.92,168,139,291,19.73,29.27,Maize,DAP,9
+Loamy,7.14,195,121,254,24.17,22.43,Wheat,Urea,12
+Sandy,6.83,183,55,176,11.11,21.59,Potato,NPK,13
+Sandy,5.69,152,43,166,23.26,24.05,Peanut,Single Super Phosphate,5
+Peaty,6.27,83,112,153,11.81,34.47,Lettuce,Compost,14
+Peaty,7.45,130,127,171,39.53,22.12,Lettuce,Compost,15
+Clay,5.74,100,129,155,16.74,31.6,Rice,Urea,4
+Sandy,7.37,114,108,192,13.01,24.42,Carrot,Potash,13
+Loamy,6.99,102,116,189,22.92,24.45,Maize,DAP,9
+Silty,7.22,63,93,291,42.17,24.37,Tomato,Compost,11
+Clay,6.38,172,122,121,16.83,27.39,Cotton,NPK,11
+Sandy,7.42,94,44,270,19.3,32.99,Carrot,Potash,14
+Loamy,6.06,132,106,280,43.86,34.09,Wheat,Urea,9
+Silty,6.59,84,148,173,34.13,27.85,Cabbage,Vermicompost,9
+Sandy,7.28,150,53,212,23.41,26.07,Potato,NPK,15
+Peaty,5.65,51,100,298,11.91,30.76,Lettuce,Compost,3
+Loamy,7.02,79,134,238,35.47,23.02,Maize,DAP,15
+Silty,5.53,100,105,215,20.17,28.06,Cabbage,Vermicompost,11
+Peaty,7.48,63,52,123,22.83,29.51,Onion,Ammonium Sulphate,6
+Peaty,6.31,82,100,248,28.11,32.6,Lettuce,Compost,7
+Loamy,6.77,136,103,180,17.17,26.05,Barley,Ammonium Nitrate,7
+Peaty,6.39,164,105,128,43.23,30.01,Spinach,Organic Fertilizer,5
+Clay,7.07,147,138,171,20.37,22.82,Rice,Urea,10
+Peaty,6.1,59,118,254,19.79,28.05,Onion,Ammonium Sulphate,8
+Loamy,6.03,111,129,192,31.69,20.98,Maize,DAP,5
+Silty,6.16,145,83,273,17.8,30.04,Tomato,Compost,12
+Peaty,5.55,144,37,119,10.64,29.72,Lettuce,Compost,8
+Clay,6.96,102,79,133,43.98,20.64,Rice,Urea,15
+Sandy,6.17,188,65,248,17.55,28.9,Carrot,Potash,9
+Sandy,6.03,161,100,258,35.31,26.0,Carrot,Potash,14
+Silty,6.0,172,65,248,17.17,25.38,Tomato,Compost,7
+Loamy,7.42,159,70,139,22.74,29.92,Wheat,Urea,14
+Silty,6.65,81,108,264,22.08,20.78,Soybean,Bone Meal,7
+Sandy,6.94,195,139,118,22.72,24.61,Potato,NPK,6
+Peaty,5.53,132,132,226,29.77,20.34,Lettuce,Compost,7
+Chalky,7.03,101,85,269,24.92,29.04,Mustard,Potash,9
+Chalky,6.69,193,103,223,43.25,27.81,Beetroot,NPK,6
+Clay,7.3,146,59,280,37.14,25.23,Cotton,NPK,3
+Silty,5.65,134,128,142,23.28,34.64,Soybean,Bone Meal,10
+Chalky,6.26,171,69,291,18.7,32.26,Mustard,Potash,11
+Peaty,6.37,181,147,150,22.06,21.44,Onion,Ammonium Sulphate,3
+Peaty,6.12,114,88,138,38.63,25.74,Spinach,Organic Fertilizer,3
+Loamy,6.44,163,85,142,26.28,30.27,Barley,Ammonium Nitrate,6
+Clay,7.03,142,108,236,41.77,34.35,Rice,Urea,13
+Chalky,5.5,190,46,241,31.52,30.24,Mustard,Potash,10
+Peaty,6.65,135,39,248,32.77,28.99,Lettuce,Compost,4
+Sandy,6.3,174,95,171,24.19,34.52,Potato,NPK,5
+Silty,6.73,151,106,131,17.79,33.69,Cabbage,Vermicompost,7
+Silty,5.9,128,95,222,12.03,32.09,Tomato,Compost,7
+Chalky,7.07,123,71,186,16.62,29.36,Mustard,Potash,8
+Peaty,7.08,64,79,123,20.26,23.79,Onion,Ammonium Sulphate,3
+Silty,6.39,163,120,261,42.18,32.74,Soybean,Bone Meal,9
+Loamy,5.53,176,112,266,20.46,33.48,Barley,Ammonium Nitrate,3
+Peaty,7.29,82,35,216,15.62,30.97,Spinach,Organic Fertilizer,9
+Loamy,6.57,124,118,216,34.67,30.86,Barley,Ammonium Nitrate,9
+Peaty,5.6,148,62,269,20.21,26.73,Lettuce,Compost,7
+Loamy,5.76,132,74,260,39.94,28.84,Maize,DAP,13
+Peaty,6.04,56,53,189,32.53,24.64,Spinach,Organic Fertilizer,7
+Sandy,6.53,140,110,278,44.68,29.46,Peanut,Single Super Phosphate,8
+Clay,6.31,173,68,108,23.72,33.01,Rice,Urea,15
+Sandy,5.96,168,137,183,43.57,30.58,Carrot,Potash,15
+Chalky,6.96,61,143,246,44.06,20.97,Broccoli,Urea,9
+Sandy,6.63,182,116,131,23.43,28.34,Carrot,Potash,4
+Clay,6.4,107,86,134,25.76,26.03,Sugarcane,MOP,4
+Clay,5.91,191,68,148,46.99,30.77,Sugarcane,MOP,9
+Clay,7.37,148,84,124,33.86,24.76,Rice,Urea,7
+Silty,6.83,175,122,300,12.37,25.75,Soybean,Bone Meal,6
+Silty,6.56,179,133,164,24.96,24.97,Tomato,Compost,10
+Loamy,5.59,145,42,175,10.54,33.91,Maize,DAP,7
+Chalky,6.32,75,104,252,13.3,27.71,Beetroot,NPK,5
+Loamy,5.65,106,146,286,17.79,24.58,Wheat,Urea,7
+Loamy,7.05,95,45,257,39.98,21.37,Wheat,Urea,3
+Chalky,7.12,110,132,207,37.7,34.77,Beetroot,NPK,12
+Silty,7.33,175,54,139,16.4,20.7,Tomato,Compost,3
+Loamy,5.85,66,105,217,36.7,33.62,Barley,Ammonium Nitrate,15
+Loamy,6.36,116,104,296,27.17,26.96,Wheat,Urea,4
+Loamy,7.31,72,107,250,25.8,24.8,Barley,Ammonium Nitrate,13
+Peaty,6.35,161,48,232,16.69,28.13,Onion,Ammonium Sulphate,7
+Peaty,5.7,80,146,149,37.28,22.29,Lettuce,Compost,13
+Peaty,6.2,120,72,181,47.32,26.38,Onion,Ammonium Sulphate,6
+Loamy,6.41,129,109,142,16.79,31.03,Maize,DAP,13
+Peaty,6.23,82,70,175,20.64,28.82,Spinach,Organic Fertilizer,10
+Chalky,7.19,197,128,107,47.69,32.71,Mustard,Potash,6
+Peaty,7.09,107,108,111,33.12,21.75,Spinach,Organic Fertilizer,10
+Chalky,6.27,163,139,256,31.04,26.05,Broccoli,Urea,3
+Loamy,6.09,99,136,259,26.97,24.27,Maize,DAP,4
+Clay,7.35,108,145,172,26.64,32.22,Cotton,NPK,6
+Clay,7.27,195,70,222,38.82,32.72,Cotton,NPK,7
+Loamy,5.81,87,137,210,12.4,24.49,Barley,Ammonium Nitrate,9
+Clay,6.96,59,127,200,20.96,31.11,Cotton,NPK,4
+Sandy,6.42,168,46,285,39.26,24.55,Peanut,Single Super Phosphate,14
+Silty,6.97,151,34,220,46.3,30.37,Soybean,Bone Meal,11
+Sandy,6.87,80,62,201,23.34,31.01,Potato,NPK,4
+Loamy,7.01,90,46,272,20.25,23.42,Barley,Ammonium Nitrate,6
+Peaty,6.1,89,123,163,19.48,27.32,Spinach,Organic Fertilizer,8
+Peaty,5.57,198,137,117,33.12,29.25,Spinach,Organic Fertilizer,13
+Clay,6.54,63,135,121,17.9,23.27,Cotton,NPK,15
+Chalky,5.97,133,137,297,15.23,33.15,Beetroot,NPK,12
+Clay,7.5,168,143,105,40.24,24.57,Rice,Urea,5
+Clay,6.14,181,143,205,13.06,23.85,Cotton,NPK,15
+Peaty,5.61,139,141,273,39.55,26.38,Spinach,Organic Fertilizer,12
+Loamy,5.98,168,143,226,48.12,24.95,Wheat,Urea,15
+Chalky,5.91,171,40,270,49.82,27.33,Beetroot,NPK,13
+Loamy,6.95,150,57,290,39.82,25.81,Barley,Ammonium Nitrate,9
+Chalky,6.65,191,105,132,41.31,28.53,Broccoli,Urea,10
+Sandy,6.85,129,67,294,22.0,29.75,Peanut,Single Super Phosphate,10
+Loamy,7.19,151,70,135,24.76,22.96,Maize,DAP,13
+Chalky,5.71,149,120,290,28.78,21.91,Broccoli,Urea,7
+Peaty,5.55,73,145,106,44.66,29.48,Onion,Ammonium Sulphate,6
+Sandy,6.53,85,120,264,37.93,26.98,Carrot,Potash,15
+Loamy,5.74,71,38,133,30.71,22.15,Barley,Ammonium Nitrate,9
+Chalky,7.35,156,145,235,34.08,29.68,Mustard,Potash,5
+Peaty,6.19,68,65,147,21.32,20.68,Spinach,Organic Fertilizer,13
+Peaty,5.77,72,109,170,32.49,32.43,Lettuce,Compost,13
+Clay,6.03,197,111,299,28.87,25.46,Sugarcane,MOP,3
+Clay,7.19,108,145,147,32.35,26.41,Rice,Urea,15
+Silty,7.42,160,30,231,17.03,24.24,Tomato,Compost,15
+Peaty,6.8,182,58,245,17.1,25.78,Lettuce,Compost,5
+Silty,5.65,85,118,137,30.12,21.9,Tomato,Compost,3
+Sandy,7.11,101,44,110,17.77,30.7,Potato,NPK,13
+Peaty,7.49,177,139,229,25.19,31.72,Spinach,Organic Fertilizer,5
+Sandy,6.51,150,127,243,41.25,31.24,Potato,NPK,11
+Sandy,7.38,102,56,298,45.18,27.09,Peanut,Single Super Phosphate,7
+Peaty,6.62,125,92,200,39.19,20.65,Onion,Ammonium Sulphate,10
+Clay,5.55,87,138,290,23.56,26.08,Cotton,NPK,4
+Chalky,5.63,94,73,266,13.63,22.19,Broccoli,Urea,10
+Sandy,7.31,141,150,199,44.5,24.43,Peanut,Single Super Phosphate,14
+Loamy,6.91,196,104,237,45.56,33.22,Maize,DAP,3
+Sandy,6.25,143,73,223,42.25,22.41,Potato,NPK,9
+Silty,6.06,171,52,300,31.16,31.47,Soybean,Bone Meal,9
+Chalky,6.61,176,101,127,19.95,25.87,Beetroot,NPK,9
+Loamy,6.53,127,131,208,41.13,29.87,Wheat,Urea,15
+Silty,7.0,57,137,237,46.63,20.29,Cabbage,Vermicompost,14
+Loamy,6.21,160,111,193,28.91,23.52,Barley,Ammonium Nitrate,9
+Chalky,5.56,191,137,115,48.01,31.69,Beetroot,NPK,4
+Silty,6.55,61,143,148,20.94,34.34,Soybean,Bone Meal,4
+Clay,7.31,111,116,172,11.91,28.64,Rice,Urea,8
+Peaty,6.41,139,101,184,25.9,20.07,Lettuce,Compost,12
+Loamy,6.75,180,68,107,28.14,33.35,Wheat,Urea,12
+Loamy,6.33,65,61,285,15.31,27.26,Maize,DAP,15
+Loamy,6.09,163,32,296,45.56,24.02,Wheat,Urea,14
+Sandy,7.16,148,73,108,48.46,33.94,Carrot,Potash,8
+Peaty,6.96,104,147,216,21.94,21.5,Spinach,Organic Fertilizer,8
+Clay,7.41,50,84,187,42.46,24.67,Rice,Urea,9
+Silty,7.14,157,139,159,28.45,20.86,Soybean,Bone Meal,6
+Peaty,5.61,171,103,139,31.31,33.05,Spinach,Organic Fertilizer,3
+Peaty,6.65,120,132,194,38.5,29.24,Lettuce,Compost,9
+Clay,6.59,186,83,157,35.5,20.97,Cotton,NPK,5
+Silty,6.25,150,78,126,17.14,32.05,Tomato,Compost,6
+Silty,6.98,174,126,131,32.6,28.81,Cabbage,Vermicompost,10
+Peaty,7.36,97,34,297,28.48,20.24,Lettuce,Compost,7
+Clay,6.9,84,79,179,27.2,31.38,Cotton,NPK,7
+Sandy,5.68,70,95,262,37.41,24.45,Potato,NPK,11
+Loamy,7.26,153,106,203,49.06,33.98,Barley,Ammonium Nitrate,10
+Clay,5.82,61,31,148,46.21,27.31,Sugarcane,MOP,7
+Silty,7.05,86,117,293,30.98,20.9,Soybean,Bone Meal,11
+Chalky,6.64,111,42,241,36.53,31.99,Beetroot,NPK,3
+Chalky,6.7,181,89,252,25.66,32.74,Beetroot,NPK,11
+Loamy,5.64,197,141,283,29.39,32.91,Barley,Ammonium Nitrate,7
+Silty,6.26,119,86,126,29.82,26.52,Cabbage,Vermicompost,6
+Silty,6.37,101,124,264,33.97,33.74,Cabbage,Vermicompost,6
+Silty,7.38,195,138,148,30.82,32.14,Tomato,Compost,14
+Peaty,5.92,59,41,159,40.93,33.19,Onion,Ammonium Sulphate,12
+Silty,5.98,57,114,249,34.14,28.85,Soybean,Bone Meal,14
+Clay,5.6,95,121,145,11.18,25.17,Rice,Urea,11
+Clay,6.91,65,34,274,16.95,29.75,Sugarcane,MOP,5
+Loamy,7.34,56,136,116,12.51,21.3,Maize,DAP,6
+Sandy,5.63,145,64,229,18.58,34.13,Carrot,Potash,5
+Loamy,7.19,179,77,277,32.64,26.39,Maize,DAP,14
+Silty,6.96,140,116,194,42.26,22.89,Tomato,Compost,5
+Loamy,7.24,110,52,231,42.37,28.7,Barley,Ammonium Nitrate,3
+Clay,7.33,133,150,157,12.81,20.67,Cotton,NPK,7
+Silty,5.97,114,91,130,19.61,28.01,Tomato,Compost,14
+Silty,5.7,171,77,203,14.02,26.35,Soybean,Bone Meal,4
+Silty,7.46,67,57,112,23.9,30.2,Tomato,Compost,7
+Peaty,7.0,94,55,174,18.63,27.82,Lettuce,Compost,12
+Silty,7.16,77,95,249,38.73,22.36,Cabbage,Vermicompost,9
+Loamy,7.49,57,81,145,21.49,30.18,Barley,Ammonium Nitrate,3
+Chalky,6.26,56,120,240,39.58,24.42,Mustard,Potash,11
+Clay,5.86,199,90,122,32.96,30.03,Cotton,NPK,14
+Chalky,5.96,119,71,257,17.32,25.2,Beetroot,NPK,3
+Chalky,7.5,51,133,180,41.9,23.03,Beetroot,NPK,5
+Sandy,6.03,162,89,254,24.92,32.43,Carrot,Potash,5
+Peaty,6.69,155,124,157,24.99,24.99,Spinach,Organic Fertilizer,7
+Sandy,5.77,159,95,264,24.21,27.3,Carrot,Potash,3
+Silty,6.39,159,134,241,21.78,20.08,Soybean,Bone Meal,10
+Sandy,6.47,72,143,197,13.83,26.28,Peanut,Single Super Phosphate,10
+Loamy,5.72,65,119,108,25.5,32.16,Barley,Ammonium Nitrate,9
+Sandy,6.08,103,78,220,47.09,24.34,Potato,NPK,15
+Sandy,6.07,169,33,250,14.86,33.85,Peanut,Single Super Phosphate,14
+Loamy,5.6,52,50,259,26.53,21.58,Wheat,Urea,10
+Sandy,6.04,75,42,240,13.5,27.51,Peanut,Single Super Phosphate,5
+Loamy,6.74,79,141,282,37.59,23.07,Barley,Ammonium Nitrate,8
+Sandy,5.62,101,30,259,12.92,24.21,Carrot,Potash,6
+Sandy,6.95,138,114,208,30.76,28.7,Carrot,Potash,14
+Silty,7.26,90,53,149,28.4,28.17,Cabbage,Vermicompost,14
+Sandy,6.32,85,135,134,45.99,32.48,Peanut,Single Super Phosphate,3
+Clay,5.68,98,81,279,39.82,25.08,Cotton,NPK,3
+Chalky,6.57,174,57,292,15.05,25.88,Mustard,Potash,13
+Silty,6.38,88,88,102,37.68,29.25,Cabbage,Vermicompost,8
+Sandy,6.75,176,61,273,43.98,20.43,Potato,NPK,8
+Sandy,5.81,195,129,122,48.42,20.07,Potato,NPK,9
+Peaty,6.9,91,115,258,31.51,25.71,Spinach,Organic Fertilizer,8
+Chalky,7.4,87,65,174,32.03,34.33,Beetroot,NPK,3
+Peaty,6.7,67,83,238,28.06,33.36,Lettuce,Compost,3
+Clay,6.27,120,117,130,11.36,30.1,Sugarcane,MOP,8
+Loamy,5.81,94,41,200,20.21,31.35,Maize,DAP,9
+Loamy,5.76,107,137,231,18.44,26.62,Barley,Ammonium Nitrate,6
+Peaty,5.8,199,56,182,38.07,33.5,Onion,Ammonium Sulphate,10
+Loamy,6.81,72,43,174,49.74,23.25,Maize,DAP,12
+Silty,6.95,168,133,228,20.38,32.33,Cabbage,Vermicompost,10
+Loamy,7.25,94,98,228,23.24,32.27,Maize,DAP,11
+Loamy,7.43,191,106,231,16.52,20.52,Barley,Ammonium Nitrate,9
+Silty,7.34,113,47,219,23.2,30.84,Cabbage,Vermicompost,10
+Silty,5.67,61,43,168,48.34,23.25,Cabbage,Vermicompost,10
+Loamy,7.38,52,108,294,23.41,30.35,Maize,DAP,6
+Chalky,5.94,141,87,129,36.46,34.46,Beetroot,NPK,4
+Peaty,6.11,94,62,221,24.93,29.59,Onion,Ammonium Sulphate,4
+Sandy,6.65,54,37,128,26.16,21.8,Peanut,Single Super Phosphate,10
+Peaty,7.12,193,146,106,20.73,22.06,Onion,Ammonium Sulphate,3
+Sandy,6.83,78,55,132,48.84,25.32,Carrot,Potash,10
+Loamy,6.89,76,59,142,31.18,34.49,Maize,DAP,9
+Clay,6.99,132,80,153,12.12,34.51,Rice,Urea,9
+Clay,6.06,114,104,155,22.78,23.09,Cotton,NPK,6
+Peaty,6.79,113,146,286,35.65,20.84,Spinach,Organic Fertilizer,11
+Peaty,7.07,164,124,270,16.16,33.04,Lettuce,Compost,15
+Loamy,7.03,50,35,201,46.85,21.62,Barley,Ammonium Nitrate,5
+Clay,6.44,147,143,214,19.93,31.25,Cotton,NPK,12
+Chalky,6.21,60,136,143,39.94,31.81,Mustard,Potash,4
+Peaty,6.13,71,70,160,38.91,24.67,Onion,Ammonium Sulphate,11
+Silty,6.11,184,52,143,17.42,31.83,Cabbage,Vermicompost,11
+Chalky,5.59,163,60,191,19.22,29.31,Beetroot,NPK,15
+Loamy,7.09,110,128,250,26.75,30.89,Wheat,Urea,12
+Sandy,6.93,95,113,197,18.12,25.41,Peanut,Single Super Phosphate,13
+Clay,6.45,162,127,197,11.03,29.29,Sugarcane,MOP,9
+Sandy,6.48,155,123,244,38.92,20.06,Potato,NPK,3
+Clay,7.11,50,98,188,29.84,31.22,Sugarcane,MOP,5
+Clay,6.06,194,123,103,30.92,34.63,Rice,Urea,6
+Loamy,6.69,152,120,144,14.34,26.52,Maize,DAP,6
+Chalky,6.38,72,128,175,21.65,25.99,Beetroot,NPK,14
+Peaty,7.01,160,58,286,18.03,32.85,Lettuce,Compost,11
+Loamy,6.43,95,125,137,31.9,25.0,Barley,Ammonium Nitrate,10
+Loamy,7.45,55,119,206,49.24,20.59,Wheat,Urea,9
+Sandy,7.22,150,40,192,31.87,26.09,Carrot,Potash,4
+Peaty,6.61,191,62,156,34.95,27.11,Lettuce,Compost,15
+Sandy,7.47,188,104,287,48.62,21.23,Potato,NPK,4
+Chalky,6.74,59,122,237,25.11,27.68,Beetroot,NPK,9
+Chalky,5.82,169,98,114,25.25,23.81,Mustard,Potash,12
+Loamy,6.43,60,61,189,21.29,26.4,Maize,DAP,8
+Chalky,7.5,146,112,141,37.27,20.75,Broccoli,Urea,10
+Chalky,6.52,138,113,133,13.92,26.97,Broccoli,Urea,11
+Sandy,7.13,154,136,275,29.11,23.2,Peanut,Single Super Phosphate,3
+Clay,6.67,124,75,209,49.49,31.5,Sugarcane,MOP,14
+Silty,6.52,78,30,242,25.39,21.73,Tomato,Compost,15
+Peaty,5.77,67,140,294,15.12,20.59,Onion,Ammonium Sulphate,9
+Silty,7.07,197,139,298,46.79,30.44,Cabbage,Vermicompost,3
+Peaty,6.93,128,136,272,14.13,28.24,Spinach,Organic Fertilizer,11
+Loamy,5.59,77,92,189,44.03,23.96,Wheat,Urea,13
+Chalky,7.26,148,37,213,27.87,29.68,Beetroot,NPK,4
+Peaty,7.37,139,73,269,35.49,28.31,Onion,Ammonium Sulphate,15
+Silty,5.81,97,48,185,20.83,33.37,Tomato,Compost,9
+Chalky,7.26,73,95,293,41.47,23.8,Mustard,Potash,13
+Peaty,6.13,74,30,118,26.88,30.81,Onion,Ammonium Sulphate,4
+Chalky,6.74,116,126,228,20.82,33.13,Beetroot,NPK,3
+Loamy,6.38,122,111,195,36.88,21.83,Wheat,Urea,11
+Loamy,7.27,177,148,111,11.34,27.47,Barley,Ammonium Nitrate,10
+Silty,5.56,85,112,165,38.69,24.39,Soybean,Bone Meal,7
+Sandy,6.25,63,117,242,20.4,33.35,Potato,NPK,7
+Sandy,6.77,99,94,300,20.73,25.72,Peanut,Single Super Phosphate,10
+Loamy,7.31,71,73,265,31.64,33.63,Wheat,Urea,15
+Peaty,6.91,113,124,182,18.69,30.78,Onion,Ammonium Sulphate,14
+Chalky,5.68,62,90,104,23.6,32.33,Mustard,Potash,14
+Peaty,7.41,70,109,135,18.87,34.88,Spinach,Organic Fertilizer,10
+Peaty,5.84,68,49,262,19.61,23.24,Onion,Ammonium Sulphate,6
+Loamy,6.57,58,120,257,38.92,34.78,Maize,DAP,5
+Sandy,6.2,59,49,209,26.42,22.6,Carrot,Potash,7
+Peaty,6.11,180,137,217,29.75,27.21,Onion,Ammonium Sulphate,9
+Sandy,5.97,121,144,292,46.74,26.07,Potato,NPK,15
+Peaty,6.2,55,111,296,12.06,22.5,Onion,Ammonium Sulphate,12
+Sandy,5.8,67,94,209,47.36,31.32,Peanut,Single Super Phosphate,9
+Silty,6.67,63,143,203,28.87,20.96,Cabbage,Vermicompost,8
+Chalky,6.11,147,105,280,38.75,23.58,Beetroot,NPK,8
+Clay,7.25,79,34,233,29.14,27.62,Sugarcane,MOP,10
+Peaty,7.02,71,60,104,40.42,29.59,Spinach,Organic Fertilizer,4
+Chalky,5.78,81,66,229,24.94,20.85,Mustard,Potash,15
+Sandy,7.08,73,130,149,33.69,34.71,Peanut,Single Super Phosphate,15
+Silty,6.96,175,57,113,12.86,20.09,Soybean,Bone Meal,12
+Chalky,7.26,144,142,159,20.31,25.04,Broccoli,Urea,13
+Sandy,5.99,183,75,218,25.3,27.48,Peanut,Single Super Phosphate,8
+Chalky,5.92,177,75,134,46.22,21.85,Mustard,Potash,5
+Peaty,6.11,145,148,135,23.24,26.53,Onion,Ammonium Sulphate,8
+Peaty,5.6,180,35,114,13.57,33.15,Onion,Ammonium Sulphate,4
+Loamy,5.76,143,87,106,36.63,22.08,Wheat,Urea,5
+Sandy,6.95,109,61,200,22.98,22.14,Potato,NPK,5
+Peaty,7.46,77,135,108,10.06,27.48,Lettuce,Compost,11
+Peaty,5.78,141,38,161,45.13,23.74,Lettuce,Compost,5
+Clay,6.26,126,119,183,16.73,20.18,Cotton,NPK,3
+Sandy,6.55,96,67,205,37.17,20.55,Potato,NPK,15
+Loamy,6.43,166,129,144,39.59,24.39,Maize,DAP,9
+Chalky,5.63,177,94,139,45.62,33.66,Mustard,Potash,11
+Silty,6.28,88,55,281,27.22,23.02,Tomato,Compost,5
+Clay,5.93,192,76,138,21.95,30.43,Cotton,NPK,8
+Chalky,7.3,171,46,246,25.43,20.17,Beetroot,NPK,12
+Sandy,5.63,192,45,223,39.89,28.89,Carrot,Potash,11
+Clay,7.35,110,108,127,16.11,26.74,Sugarcane,MOP,14
+Sandy,7.34,125,132,254,11.76,20.77,Peanut,Single Super Phosphate,5
+Clay,5.61,83,78,247,21.47,33.47,Cotton,NPK,4
+Clay,7.24,83,133,145,30.72,28.85,Rice,Urea,3
+Silty,6.29,88,64,223,43.44,28.81,Cabbage,Vermicompost,10
+Peaty,5.9,179,88,288,14.78,23.63,Lettuce,Compost,4
+Clay,5.7,51,105,232,21.76,29.22,Cotton,NPK,11
+Chalky,6.16,156,138,264,41.8,28.41,Beetroot,NPK,4
+Clay,5.73,119,141,202,17.75,26.33,Rice,Urea,8
+Sandy,6.43,156,144,175,32.12,21.75,Carrot,Potash,9
+Clay,7.06,173,144,237,10.64,26.84,Cotton,NPK,4
+Sandy,6.9,148,86,178,35.17,20.28,Potato,NPK,5
+Chalky,5.77,188,63,148,10.99,29.18,Mustard,Potash,12
+Loamy,5.64,160,100,123,45.71,31.64,Barley,Ammonium Nitrate,15
+Silty,7.43,149,97,170,32.12,24.97,Cabbage,Vermicompost,5
+Chalky,7.17,175,88,299,44.09,28.07,Beetroot,NPK,5
+Loamy,6.56,90,85,238,40.63,21.49,Barley,Ammonium Nitrate,6
+Chalky,6.39,131,50,205,13.54,22.86,Broccoli,Urea,3
+Peaty,6.28,197,134,145,49.16,22.19,Spinach,Organic Fertilizer,13
+Chalky,6.63,137,97,129,42.31,32.92,Mustard,Potash,5
+Silty,6.0,136,80,113,19.64,33.21,Tomato,Compost,7
+Silty,7.11,129,126,141,22.55,24.36,Soybean,Bone Meal,14
+Chalky,6.0,83,35,273,27.04,20.65,Beetroot,NPK,14
+Sandy,6.92,137,85,270,49.07,24.04,Peanut,Single Super Phosphate,10
+Peaty,7.38,154,115,104,21.91,30.11,Onion,Ammonium Sulphate,3
+Silty,6.09,94,37,252,30.84,24.64,Tomato,Compost,15
+Sandy,5.66,152,127,188,22.62,21.26,Carrot,Potash,12
+Clay,6.23,200,39,131,11.26,22.16,Sugarcane,MOP,15
+Silty,6.39,194,82,167,48.78,24.28,Soybean,Bone Meal,5
+Peaty,6.22,81,66,177,47.79,33.95,Lettuce,Compost,13
+Clay,6.42,118,30,184,12.46,20.85,Cotton,NPK,5
+Sandy,5.87,186,33,186,20.05,25.1,Carrot,Potash,5
+Chalky,6.93,134,100,237,45.53,22.21,Mustard,Potash,14
+Silty,6.36,111,43,205,42.39,20.99,Tomato,Compost,10
+Sandy,6.92,159,129,121,13.87,32.45,Potato,NPK,9
+Sandy,5.77,178,42,281,43.85,23.24,Peanut,Single Super Phosphate,5
+Peaty,6.4,162,92,216,31.63,27.46,Onion,Ammonium Sulphate,10
+Chalky,7.22,189,129,171,11.3,28.62,Mustard,Potash,5
+Peaty,6.3,176,107,290,33.86,34.17,Lettuce,Compost,3
+Loamy,7.15,124,80,178,10.67,31.58,Wheat,Urea,6
+Silty,7.15,136,94,136,14.09,33.22,Cabbage,Vermicompost,4
+Clay,6.53,183,101,194,45.25,34.73,Sugarcane,MOP,12
+Sandy,5.55,129,38,129,35.67,23.18,Carrot,Potash,12
+Silty,6.48,185,138,242,17.13,32.37,Soybean,Bone Meal,13
+Silty,5.92,122,41,252,41.93,23.23,Cabbage,Vermicompost,15
+Clay,6.15,112,147,286,40.91,20.67,Sugarcane,MOP,7
+Sandy,6.76,178,66,148,48.99,25.79,Peanut,Single Super Phosphate,14
+Peaty,6.94,98,123,126,12.58,33.39,Spinach,Organic Fertilizer,15
+Silty,6.79,166,114,206,39.42,30.66,Cabbage,Vermicompost,14
+Clay,6.85,132,114,100,17.25,31.03,Sugarcane,MOP,5
+Sandy,7.13,101,101,148,14.97,26.87,Carrot,Potash,12
+Silty,7.14,194,103,183,11.92,32.41,Cabbage,Vermicompost,7
+Loamy,6.96,92,90,215,49.56,34.67,Barley,Ammonium Nitrate,3
+Silty,6.79,161,36,236,27.78,21.68,Cabbage,Vermicompost,11
+Peaty,5.73,199,148,206,15.0,23.64,Lettuce,Compost,12
+Loamy,6.1,186,103,244,39.31,26.04,Maize,DAP,9
+Sandy,6.31,61,37,291,14.88,31.92,Carrot,Potash,8
+Sandy,6.53,88,51,204,16.68,20.75,Carrot,Potash,6
+Sandy,6.52,192,76,182,36.73,23.17,Potato,NPK,8
+Peaty,6.48,136,57,101,16.25,26.39,Onion,Ammonium Sulphate,13
+Chalky,6.63,115,78,236,27.98,31.36,Beetroot,NPK,13
+Loamy,7.08,62,39,247,24.27,23.18,Wheat,Urea,4
+Peaty,6.89,141,136,186,14.23,21.75,Onion,Ammonium Sulphate,9
+Silty,6.03,166,84,284,11.85,28.69,Tomato,Compost,12
+Silty,6.69,54,50,161,37.67,29.14,Soybean,Bone Meal,12
+Sandy,5.66,121,139,186,37.79,21.97,Potato,NPK,13
+Loamy,6.43,176,96,234,41.62,20.7,Barley,Ammonium Nitrate,15
+Chalky,6.55,119,40,156,44.28,25.45,Broccoli,Urea,10
+Clay,5.94,85,125,220,35.67,22.0,Cotton,NPK,12
+Chalky,6.02,198,98,276,21.43,31.92,Beetroot,NPK,7
+Sandy,6.0,156,103,194,41.38,27.68,Potato,NPK,10
+Sandy,7.35,130,124,202,27.98,31.03,Peanut,Single Super Phosphate,3
+Sandy,5.96,101,129,192,24.28,24.57,Potato,NPK,9
+Clay,7.03,53,117,279,41.05,22.89,Rice,Urea,7
+Silty,5.58,141,113,207,27.94,25.56,Cabbage,Vermicompost,5
+Sandy,7.35,90,79,281,23.35,22.27,Carrot,Potash,14
+Silty,5.65,196,131,287,15.45,33.05,Cabbage,Vermicompost,8
+Peaty,5.56,132,52,236,41.23,25.44,Lettuce,Compost,9
+Peaty,6.03,147,54,298,20.25,26.57,Onion,Ammonium Sulphate,13
+Loamy,7.33,197,48,125,39.08,29.9,Wheat,Urea,14
+Sandy,6.62,86,92,208,49.96,30.43,Peanut,Single Super Phosphate,4
+Chalky,5.63,122,85,249,20.3,28.07,Beetroot,NPK,15
+Sandy,7.26,155,135,296,49.18,22.9,Peanut,Single Super Phosphate,3
+Clay,7.3,103,80,252,40.02,20.88,Cotton,NPK,4
+Peaty,6.47,64,81,110,42.12,29.12,Onion,Ammonium Sulphate,5
+Loamy,6.15,171,144,288,19.91,22.31,Maize,DAP,13
+Silty,6.14,188,145,252,45.62,32.78,Cabbage,Vermicompost,8
+Silty,6.57,193,105,185,32.06,22.87,Tomato,Compost,3
+Clay,7.46,192,71,196,24.28,28.16,Rice,Urea,5
+Silty,6.38,50,82,229,12.33,21.97,Soybean,Bone Meal,5
+Clay,6.72,78,50,272,23.11,32.25,Rice,Urea,10
+Chalky,5.95,185,69,269,47.2,22.21,Broccoli,Urea,12
+Chalky,5.51,147,44,142,12.1,33.26,Mustard,Potash,8
+Loamy,5.64,155,74,180,31.42,23.18,Barley,Ammonium Nitrate,15
+Sandy,6.47,117,50,294,33.23,21.54,Carrot,Potash,3
+Peaty,5.74,190,148,234,38.76,30.29,Lettuce,Compost,9
+Peaty,7.05,69,139,251,15.37,33.43,Spinach,Organic Fertilizer,15
+Peaty,5.83,154,80,264,24.07,25.89,Lettuce,Compost,11
+Peaty,6.83,200,34,265,25.46,32.58,Onion,Ammonium Sulphate,5
+Clay,5.52,82,32,199,22.1,31.62,Sugarcane,MOP,14
+Clay,6.31,58,91,217,31.69,30.81,Rice,Urea,12
+Clay,6.21,146,69,146,15.24,23.45,Cotton,NPK,15
+Chalky,7.12,60,91,299,11.28,29.54,Beetroot,NPK,7
+Sandy,6.81,79,112,278,49.37,21.9,Potato,NPK,10
+Sandy,7.12,55,46,235,21.02,28.77,Potato,NPK,4
+Loamy,6.51,192,149,102,12.26,29.72,Wheat,Urea,12
+Silty,6.26,132,91,112,20.26,28.71,Cabbage,Vermicompost,13
+Chalky,7.24,97,42,190,49.63,31.84,Mustard,Potash,9
+Silty,6.58,84,34,108,20.02,27.54,Soybean,Bone Meal,12
+Clay,5.82,174,44,256,26.02,27.14,Cotton,NPK,9
+Peaty,5.72,195,140,127,42.07,26.73,Lettuce,Compost,14
+Silty,7.3,115,71,255,46.0,33.04,Cabbage,Vermicompost,9
+Clay,5.62,55,135,233,21.96,28.59,Rice,Urea,11
+Chalky,6.89,128,79,249,35.13,33.22,Beetroot,NPK,11
+Sandy,5.55,124,110,177,14.31,25.15,Carrot,Potash,3
+Sandy,5.75,115,36,109,49.77,24.35,Carrot,Potash,5
+Silty,6.74,99,95,282,23.36,33.49,Soybean,Bone Meal,8
+Chalky,7.29,181,90,293,28.62,34.12,Mustard,Potash,13
+Loamy,6.64,51,56,135,25.18,28.22,Barley,Ammonium Nitrate,8
+Chalky,7.25,121,116,188,23.21,27.88,Broccoli,Urea,12
+Loamy,5.81,185,61,168,21.63,23.7,Wheat,Urea,6
+Silty,6.4,64,56,189,16.47,22.5,Soybean,Bone Meal,7
+Clay,7.48,196,36,234,25.54,29.19,Rice,Urea,4
+Sandy,5.89,165,137,262,40.22,23.55,Carrot,Potash,7
+Sandy,6.42,137,134,159,27.13,34.74,Carrot,Potash,10
+Clay,6.86,102,46,123,26.67,24.84,Rice,Urea,14
+Sandy,6.66,101,62,192,11.5,26.97,Potato,NPK,9
+Peaty,7.04,54,97,222,38.66,25.75,Onion,Ammonium Sulphate,5
+Silty,5.71,99,125,236,22.12,32.3,Tomato,Compost,9
+Chalky,6.86,52,75,127,44.14,20.47,Beetroot,NPK,7
+Peaty,6.39,156,125,217,37.56,20.98,Spinach,Organic Fertilizer,5
+Clay,5.82,80,142,123,39.55,34.46,Sugarcane,MOP,15
+Clay,6.6,78,65,233,23.15,29.91,Cotton,NPK,6
+Clay,6.09,55,100,264,14.25,25.85,Cotton,NPK,9
+Peaty,6.62,114,100,111,25.15,21.92,Onion,Ammonium Sulphate,12
+Chalky,6.79,71,36,102,18.43,26.3,Beetroot,NPK,11
+Clay,5.66,144,126,143,26.89,33.67,Cotton,NPK,8
+Clay,7.38,141,146,214,11.97,34.78,Cotton,NPK,6
+Peaty,7.49,172,133,216,44.53,34.57,Onion,Ammonium Sulphate,7
+Silty,7.0,80,102,119,13.8,33.68,Soybean,Bone Meal,4
+Chalky,6.3,136,47,167,23.07,28.55,Beetroot,NPK,8
+Clay,7.3,103,87,152,36.74,26.65,Sugarcane,MOP,7
+Peaty,5.76,169,78,134,20.89,24.32,Lettuce,Compost,14
+Peaty,5.96,132,87,139,30.34,34.07,Spinach,Organic Fertilizer,11
+Chalky,7.14,117,135,216,45.99,34.31,Beetroot,NPK,3
+Clay,7.47,158,108,218,22.06,29.75,Sugarcane,MOP,3
+Chalky,6.1,57,122,261,23.57,26.37,Beetroot,NPK,8
+Peaty,7.08,55,127,116,39.1,23.21,Spinach,Organic Fertilizer,5
+Peaty,6.25,153,74,131,12.18,22.46,Lettuce,Compost,14
+Sandy,5.92,130,146,190,40.27,24.52,Carrot,Potash,8
+Silty,6.76,103,44,228,34.27,33.79,Cabbage,Vermicompost,8
+Peaty,6.58,84,139,110,39.37,22.8,Spinach,Organic Fertilizer,10
+Loamy,6.8,53,146,125,33.21,24.7,Wheat,Urea,8
+Clay,5.55,93,37,169,44.77,32.17,Sugarcane,MOP,5
+Clay,6.76,66,75,240,14.74,23.48,Sugarcane,MOP,6
+Silty,7.43,71,150,179,27.58,32.84,Cabbage,Vermicompost,9
+Chalky,6.57,75,33,129,30.97,21.17,Broccoli,Urea,15
+Peaty,6.14,188,49,257,12.47,25.63,Lettuce,Compost,8
+Chalky,6.38,62,44,128,26.32,27.46,Beetroot,NPK,4
+Chalky,7.15,106,81,141,40.76,29.19,Beetroot,NPK,14
+Clay,5.67,162,67,225,35.73,29.15,Rice,Urea,7
+Clay,6.74,190,139,257,10.41,25.22,Cotton,NPK,13
+Sandy,6.62,139,46,228,23.96,29.33,Potato,NPK,13
+Sandy,7.42,187,88,134,30.6,34.67,Peanut,Single Super Phosphate,7
+Loamy,6.33,62,30,158,42.14,25.94,Maize,DAP,5
+Loamy,6.48,140,114,146,48.51,30.43,Barley,Ammonium Nitrate,4
+Peaty,6.98,125,119,199,27.89,22.05,Onion,Ammonium Sulphate,6
+Peaty,7.43,83,123,195,13.78,20.37,Lettuce,Compost,11
+Peaty,6.07,98,81,160,21.49,22.65,Spinach,Organic Fertilizer,7
+Peaty,6.5,159,97,160,11.69,21.63,Lettuce,Compost,8
+Clay,6.23,65,94,205,21.35,29.68,Sugarcane,MOP,4
+Chalky,5.72,163,135,239,35.31,33.54,Beetroot,NPK,11
+Clay,7.26,89,63,171,26.02,23.82,Cotton,NPK,13
+Sandy,5.6,115,145,221,21.41,25.73,Peanut,Single Super Phosphate,3
+Sandy,6.11,144,72,292,19.38,26.16,Peanut,Single Super Phosphate,3
+Silty,7.07,127,136,105,44.7,32.12,Tomato,Compost,5
+Peaty,6.34,51,145,266,12.63,23.54,Lettuce,Compost,11
+Sandy,7.34,157,140,186,48.14,20.72,Carrot,Potash,9
+Loamy,6.53,129,130,182,36.79,30.02,Barley,Ammonium Nitrate,3
+Sandy,7.28,166,122,102,38.88,31.55,Peanut,Single Super Phosphate,11
+Peaty,6.33,56,137,204,44.62,22.95,Spinach,Organic Fertilizer,13
+Loamy,6.33,114,149,227,22.0,22.2,Wheat,Urea,3
+Peaty,5.71,76,147,223,47.05,20.38,Lettuce,Compost,13
+Sandy,5.81,168,108,115,31.9,31.67,Potato,NPK,8
+Peaty,6.59,172,72,114,49.6,22.95,Spinach,Organic Fertilizer,10
+Loamy,6.48,108,100,257,38.49,34.58,Wheat,Urea,8
+Clay,6.88,51,73,131,16.98,34.13,Rice,Urea,12
+Loamy,6.52,170,46,298,37.46,26.83,Wheat,Urea,14
+Silty,5.55,173,93,163,10.12,20.93,Cabbage,Vermicompost,12
+Sandy,6.06,186,51,283,11.74,22.93,Carrot,Potash,7
+Sandy,7.29,149,34,168,27.24,24.51,Peanut,Single Super Phosphate,5
+Peaty,7.4,131,35,264,36.28,28.93,Spinach,Organic Fertilizer,11
+Silty,7.49,88,68,251,41.48,20.52,Tomato,Compost,11
+Chalky,6.36,60,149,213,22.34,28.95,Beetroot,NPK,8
+Silty,6.9,172,71,190,32.91,27.1,Soybean,Bone Meal,5
+Loamy,7.5,62,121,256,41.82,33.01,Barley,Ammonium Nitrate,14
+Peaty,7.31,127,32,207,28.39,29.63,Lettuce,Compost,5
+Loamy,5.84,150,89,170,10.84,21.87,Wheat,Urea,5
+Peaty,6.73,69,64,292,39.98,31.3,Spinach,Organic Fertilizer,7
+Peaty,5.93,177,100,189,21.88,29.99,Onion,Ammonium Sulphate,13
+Silty,7.01,57,49,170,10.3,28.54,Cabbage,Vermicompost,13
+Peaty,6.27,197,89,259,46.02,20.76,Lettuce,Compost,8
+Chalky,6.74,115,145,246,33.24,29.8,Beetroot,NPK,12
+Loamy,6.65,193,127,240,22.55,29.65,Barley,Ammonium Nitrate,3
+Clay,5.82,56,53,177,42.65,31.02,Sugarcane,MOP,7
+Silty,6.8,174,88,163,48.56,34.98,Soybean,Bone Meal,3
+Peaty,7.05,88,85,115,10.61,27.92,Onion,Ammonium Sulphate,13
+Sandy,6.6,51,104,286,43.83,33.16,Peanut,Single Super Phosphate,10
+Loamy,5.53,188,129,220,24.63,27.66,Maize,DAP,9
+Silty,7.26,135,117,285,32.58,28.82,Soybean,Bone Meal,8
+Loamy,7.18,93,133,113,49.82,31.92,Maize,DAP,5
+Peaty,5.51,87,137,176,23.85,21.96,Onion,Ammonium Sulphate,11
+Clay,6.74,120,46,163,45.73,32.43,Cotton,NPK,7
+Chalky,5.9,187,66,216,33.79,29.79,Broccoli,Urea,9
+Sandy,6.09,178,50,142,35.78,22.72,Potato,NPK,7
+Peaty,7.05,68,41,297,16.89,28.71,Spinach,Organic Fertilizer,11
+Peaty,6.33,88,149,158,33.58,24.79,Lettuce,Compost,5
+Sandy,6.57,164,53,108,13.89,24.28,Potato,NPK,9
+Clay,6.73,150,148,255,39.63,20.52,Sugarcane,MOP,6
+Silty,7.34,91,120,268,21.06,24.61,Cabbage,Vermicompost,7
+Clay,6.14,126,126,106,47.66,23.91,Sugarcane,MOP,10
+Silty,6.94,73,150,143,25.68,27.65,Cabbage,Vermicompost,7
+Silty,6.47,57,85,166,42.75,33.02,Cabbage,Vermicompost,3
+Sandy,6.65,71,65,158,17.96,20.4,Potato,NPK,13
+Peaty,7.46,165,127,120,30.09,34.46,Lettuce,Compost,6
+Chalky,5.81,189,59,139,46.95,33.61,Beetroot,NPK,10
+Clay,5.94,80,57,264,21.76,29.88,Cotton,NPK,9
+Loamy,5.53,192,122,228,45.47,30.31,Barley,Ammonium Nitrate,8
+Chalky,5.69,114,84,285,42.38,28.05,Broccoli,Urea,14
+Clay,7.17,171,42,242,10.96,25.05,Sugarcane,MOP,8
+Loamy,5.76,118,58,274,39.49,26.18,Barley,Ammonium Nitrate,14
+Peaty,5.57,62,47,179,25.32,33.05,Spinach,Organic Fertilizer,3
+Silty,6.51,184,66,150,33.32,23.18,Tomato,Compost,10
+Chalky,6.51,115,43,194,37.85,29.42,Mustard,Potash,13
+Loamy,6.29,51,36,265,13.63,20.13,Wheat,Urea,5
+Clay,6.8,67,39,122,31.37,26.59,Rice,Urea,8
+Chalky,6.83,82,39,208,35.83,27.4,Beetroot,NPK,4
+Silty,5.99,82,107,165,10.45,31.99,Soybean,Bone Meal,8
+Loamy,6.63,108,71,236,18.29,21.33,Barley,Ammonium Nitrate,4
+Silty,6.19,104,140,128,14.73,20.02,Cabbage,Vermicompost,9
+Sandy,5.64,161,39,268,27.46,26.99,Peanut,Single Super Phosphate,13
+Peaty,6.31,103,82,207,42.0,32.23,Spinach,Organic Fertilizer,9
+Clay,6.25,164,134,184,27.42,33.67,Rice,Urea,11
+Chalky,6.69,132,75,138,45.08,31.07,Broccoli,Urea,10
+Loamy,6.54,153,125,133,14.37,34.54,Maize,DAP,3
+Loamy,5.79,167,30,244,15.07,34.39,Maize,DAP,7
+Clay,7.02,50,131,217,23.0,34.53,Cotton,NPK,13
+Loamy,6.71,84,70,175,10.53,30.35,Barley,Ammonium Nitrate,5
+Peaty,6.36,145,69,123,32.98,25.69,Spinach,Organic Fertilizer,10
+Chalky,6.0,144,115,103,39.29,34.5,Beetroot,NPK,14
+Chalky,7.2,63,46,296,16.33,24.38,Mustard,Potash,14
+Clay,6.12,197,37,161,11.13,33.76,Cotton,NPK,3
+Loamy,7.34,99,140,243,12.81,26.89,Wheat,Urea,15
+Silty,6.33,74,77,284,44.92,34.49,Soybean,Bone Meal,14
+Loamy,7.27,115,65,202,21.16,27.15,Maize,DAP,9
+Silty,5.59,108,40,199,28.86,27.29,Tomato,Compost,13
+Chalky,7.17,80,39,269,16.28,31.14,Mustard,Potash,9
+Loamy,6.17,64,31,212,47.84,26.24,Barley,Ammonium Nitrate,4
+Silty,7.45,160,100,296,40.11,27.26,Soybean,Bone Meal,8
+Peaty,5.87,182,83,170,27.29,32.03,Lettuce,Compost,10
+Chalky,5.7,168,129,143,30.85,22.99,Broccoli,Urea,8
+Peaty,6.05,140,62,287,20.52,21.73,Lettuce,Compost,11
+Silty,5.71,143,67,135,21.19,20.4,Tomato,Compost,6
+Clay,6.62,169,103,220,20.76,22.35,Cotton,NPK,3
+Chalky,7.43,162,70,251,34.64,33.59,Beetroot,NPK,11
+Loamy,6.32,178,60,206,11.75,32.73,Wheat,Urea,10
+Sandy,6.28,137,140,234,16.48,33.56,Potato,NPK,5
+Clay,7.08,144,50,112,21.01,30.05,Cotton,NPK,9
+Sandy,6.11,58,47,125,20.76,31.47,Carrot,Potash,5
+Sandy,7.27,168,53,248,27.79,33.62,Potato,NPK,6
+Chalky,6.45,68,62,140,34.19,27.47,Broccoli,Urea,3
+Peaty,6.44,173,33,265,35.91,26.56,Onion,Ammonium Sulphate,10
+Loamy,7.4,135,134,116,31.24,29.01,Maize,DAP,4
+Loamy,5.73,195,30,259,42.22,27.34,Maize,DAP,11
+Sandy,6.09,125,125,119,40.72,31.56,Peanut,Single Super Phosphate,3
+Peaty,6.24,155,105,194,30.82,24.92,Onion,Ammonium Sulphate,4
+Loamy,7.37,172,106,128,30.38,34.38,Barley,Ammonium Nitrate,3
+Sandy,5.65,98,82,252,12.82,32.96,Peanut,Single Super Phosphate,10
+Loamy,7.45,171,126,239,44.21,24.49,Maize,DAP,11
+Clay,6.44,100,132,139,39.22,24.23,Sugarcane,MOP,14
+Sandy,5.57,154,138,273,37.3,31.62,Potato,NPK,13
+Silty,7.48,138,38,155,42.43,22.92,Cabbage,Vermicompost,14
+Sandy,5.7,125,123,191,11.55,22.35,Peanut,Single Super Phosphate,9
+Loamy,6.65,109,128,180,49.64,26.25,Maize,DAP,3
+Chalky,5.51,54,147,176,13.37,33.16,Mustard,Potash,8
+Sandy,5.95,100,64,182,42.55,25.5,Carrot,Potash,3
+Silty,6.39,180,89,280,13.69,33.69,Tomato,Compost,15
+Sandy,6.58,140,137,296,15.87,21.72,Peanut,Single Super Phosphate,7
+Silty,5.59,115,110,128,47.94,20.53,Cabbage,Vermicompost,6
+Silty,6.34,51,71,281,22.54,32.02,Cabbage,Vermicompost,11
+Chalky,7.26,200,128,231,45.43,27.09,Mustard,Potash,8
+Peaty,6.0,166,39,222,12.35,27.75,Spinach,Organic Fertilizer,6
+Loamy,5.68,137,97,254,30.74,26.85,Wheat,Urea,4
+Chalky,6.28,150,115,119,34.56,30.08,Mustard,Potash,12
+Clay,7.21,142,146,246,13.29,27.85,Rice,Urea,5
+Clay,6.94,200,43,264,48.89,22.8,Sugarcane,MOP,9
+Peaty,5.92,122,55,261,13.79,24.79,Onion,Ammonium Sulphate,5
+Sandy,5.66,91,101,223,32.86,31.18,Carrot,Potash,7
+Clay,5.67,193,87,290,18.79,33.78,Cotton,NPK,3
+Silty,5.51,77,75,293,47.45,34.47,Tomato,Compost,15
+Silty,5.54,153,30,113,38.07,25.29,Cabbage,Vermicompost,12
+Chalky,6.57,74,70,264,28.49,25.54,Mustard,Potash,11
+Chalky,6.32,85,62,213,37.28,29.9,Broccoli,Urea,9
+Clay,5.85,52,64,186,37.98,23.86,Sugarcane,MOP,15
+Peaty,6.83,184,89,179,46.3,31.89,Spinach,Organic Fertilizer,7
+Loamy,6.33,51,116,100,48.35,32.93,Maize,DAP,7
+Peaty,7.18,72,74,300,38.21,30.71,Spinach,Organic Fertilizer,4
+Clay,6.93,180,143,159,20.99,28.82,Rice,Urea,8
+Sandy,6.76,89,64,165,17.45,31.6,Peanut,Single Super Phosphate,6
+Sandy,6.61,158,69,192,19.39,28.84,Peanut,Single Super Phosphate,15
+Peaty,6.25,157,142,104,27.09,26.05,Lettuce,Compost,12
+Loamy,6.55,85,92,181,40.57,22.61,Barley,Ammonium Nitrate,15
+Chalky,5.59,102,39,188,10.11,25.24,Mustard,Potash,6
+Sandy,5.61,147,128,159,15.58,30.34,Carrot,Potash,6
+Chalky,6.06,107,130,152,12.37,30.8,Broccoli,Urea,5
+Peaty,6.16,182,69,216,13.27,27.47,Onion,Ammonium Sulphate,15
+Loamy,6.36,135,56,117,10.39,22.4,Barley,Ammonium Nitrate,14
+Clay,6.3,150,109,192,19.48,27.56,Rice,Urea,14
+Sandy,5.53,188,138,269,36.21,29.65,Potato,NPK,9
+Chalky,5.64,51,48,170,38.2,33.74,Broccoli,Urea,3
+Loamy,5.8,66,102,155,23.44,21.59,Maize,DAP,11
+Silty,6.59,86,41,131,35.64,26.22,Cabbage,Vermicompost,14
+Silty,6.93,57,91,162,13.18,22.28,Soybean,Bone Meal,7
+Chalky,6.05,162,60,200,31.84,32.23,Broccoli,Urea,9
+Loamy,6.03,103,42,124,18.53,34.54,Maize,DAP,4
+Chalky,6.86,136,116,237,44.95,29.05,Beetroot,NPK,12
+Silty,6.62,131,45,149,48.58,25.07,Cabbage,Vermicompost,15
+Peaty,6.57,166,64,214,12.83,31.85,Onion,Ammonium Sulphate,5
+Silty,7.37,133,66,236,28.63,24.71,Tomato,Compost,12
+Chalky,6.07,123,32,130,21.3,33.2,Broccoli,Urea,12
+Sandy,6.71,133,139,225,15.86,26.81,Carrot,Potash,15
+Silty,5.79,194,136,117,19.52,34.1,Tomato,Compost,11
+Clay,7.06,110,30,184,25.41,23.2,Sugarcane,MOP,3
+Chalky,5.59,84,108,100,27.28,30.72,Broccoli,Urea,8
+Sandy,6.77,174,85,281,38.27,20.19,Peanut,Single Super Phosphate,10
+Chalky,7.38,115,114,118,38.4,27.4,Beetroot,NPK,5
+Chalky,6.93,170,141,147,23.26,29.76,Broccoli,Urea,3
+Chalky,6.63,178,112,261,37.95,34.87,Mustard,Potash,10
+Silty,6.32,178,143,150,39.79,22.46,Tomato,Compost,3
+Loamy,6.89,131,113,161,30.84,26.19,Maize,DAP,6
+Clay,5.78,163,34,113,26.42,34.25,Rice,Urea,12
+Clay,6.34,120,127,138,11.23,32.84,Cotton,NPK,12
+Peaty,6.78,107,146,288,49.76,31.22,Spinach,Organic Fertilizer,8
+Sandy,7.04,85,98,203,34.69,21.08,Potato,NPK,11
+Loamy,7.04,177,53,291,40.39,20.29,Barley,Ammonium Nitrate,14
+Clay,6.21,150,134,193,45.37,32.89,Cotton,NPK,10
+Clay,6.21,64,79,131,42.02,30.92,Cotton,NPK,12
+Sandy,6.97,83,80,256,23.94,22.27,Potato,NPK,6
+Chalky,7.14,122,84,162,21.1,25.42,Mustard,Potash,7
+Clay,5.54,173,77,180,47.57,29.53,Sugarcane,MOP,11
+Chalky,6.0,82,41,296,17.77,25.85,Beetroot,NPK,5
+Loamy,6.86,135,48,105,17.5,31.58,Wheat,Urea,4
+Sandy,5.74,127,101,213,20.52,31.36,Peanut,Single Super Phosphate,8
+Loamy,6.2,146,109,135,39.24,21.27,Maize,DAP,5
+Clay,6.75,163,75,222,20.3,23.01,Cotton,NPK,9
+Clay,6.08,164,91,172,39.45,31.96,Cotton,NPK,11
+Loamy,7.31,99,131,113,26.87,27.97,Barley,Ammonium Nitrate,15
+Sandy,6.84,96,120,218,14.09,23.18,Peanut,Single Super Phosphate,3
+Chalky,7.33,123,58,145,11.44,29.69,Broccoli,Urea,15
+Loamy,6.52,187,98,173,33.37,32.78,Barley,Ammonium Nitrate,11
+Loamy,6.84,135,60,149,40.87,20.9,Maize,DAP,13
+Loamy,6.39,79,113,174,23.1,33.21,Wheat,Urea,14
+Peaty,6.51,111,32,136,29.48,25.17,Spinach,Organic Fertilizer,4
+Chalky,6.65,161,125,110,45.88,24.43,Broccoli,Urea,9
+Peaty,6.87,68,129,130,30.85,26.3,Spinach,Organic Fertilizer,7
+Clay,6.65,196,141,278,49.77,23.02,Sugarcane,MOP,8
+Silty,6.87,80,75,152,46.5,30.2,Cabbage,Vermicompost,7
+Sandy,6.96,189,132,273,21.78,25.21,Carrot,Potash,13
+Silty,6.84,181,103,129,23.77,21.25,Soybean,Bone Meal,15
+Chalky,7.1,158,100,280,32.06,23.26,Mustard,Potash,10
+Sandy,6.33,160,35,252,43.21,29.73,Potato,NPK,14
+Chalky,7.37,143,122,169,33.04,25.79,Mustard,Potash,5
+Clay,7.39,155,81,122,24.66,30.79,Sugarcane,MOP,7
+Sandy,6.81,173,125,249,17.42,21.79,Potato,NPK,15
+Loamy,6.18,171,150,277,47.86,20.15,Maize,DAP,3
+Sandy,6.87,168,46,131,23.9,34.17,Potato,NPK,14
+Peaty,6.4,69,91,235,36.97,23.34,Lettuce,Compost,14
+Clay,7.26,65,34,165,24.06,26.28,Sugarcane,MOP,14
+Loamy,6.07,191,42,283,16.31,32.92,Barley,Ammonium Nitrate,7
+Silty,7.42,114,42,207,24.63,28.46,Cabbage,Vermicompost,3
+Loamy,6.31,114,43,181,33.07,27.16,Maize,DAP,13
+Chalky,6.64,103,35,259,24.07,29.59,Broccoli,Urea,12
+Sandy,6.98,154,140,122,20.07,33.78,Potato,NPK,13
+Silty,7.48,111,108,180,23.59,32.73,Soybean,Bone Meal,10
+Peaty,7.02,147,63,129,23.7,29.88,Lettuce,Compost,6
+Sandy,6.25,128,117,233,42.07,34.94,Potato,NPK,9
+Clay,5.71,123,62,271,25.43,23.69,Cotton,NPK,11
+Peaty,6.58,66,131,273,13.21,21.04,Onion,Ammonium Sulphate,8
+Sandy,5.78,81,100,103,31.88,29.22,Peanut,Single Super Phosphate,13
+Sandy,6.41,182,149,265,15.69,26.21,Peanut,Single Super Phosphate,9
+Sandy,6.54,53,95,192,26.78,27.05,Carrot,Potash,13
+Chalky,5.84,189,135,234,40.29,30.94,Mustard,Potash,7
+Peaty,6.37,135,148,152,13.14,22.11,Lettuce,Compost,15
+Clay,7.44,110,49,118,14.03,24.76,Rice,Urea,10
+Clay,7.39,62,68,257,28.21,27.2,Sugarcane,MOP,9
+Silty,6.54,68,141,214,39.5,30.69,Cabbage,Vermicompost,11
+Loamy,5.66,142,131,203,22.26,30.59,Maize,DAP,4
+Clay,6.79,70,141,276,28.65,22.9,Sugarcane,MOP,14
+Sandy,6.07,94,60,119,13.96,32.13,Potato,NPK,14
+Sandy,5.63,189,91,159,26.53,24.55,Carrot,Potash,6
+Silty,5.91,58,112,119,39.62,27.25,Soybean,Bone Meal,7
+Peaty,6.97,112,59,170,19.9,31.0,Onion,Ammonium Sulphate,3
+Chalky,6.09,55,88,194,10.97,22.08,Beetroot,NPK,7
+Loamy,6.63,82,118,237,15.21,30.88,Barley,Ammonium Nitrate,13
+Clay,7.14,106,61,169,18.73,27.06,Rice,Urea,11
+Clay,7.04,173,100,221,10.29,31.06,Cotton,NPK,12
+Sandy,7.03,154,45,282,13.33,22.46,Carrot,Potash,4
+Loamy,7.06,132,49,154,15.49,29.65,Barley,Ammonium Nitrate,12
+Sandy,6.54,166,42,273,31.25,21.35,Carrot,Potash,13
+Sandy,5.77,52,34,287,49.23,31.91,Carrot,Potash,4
+Chalky,6.44,200,65,175,10.7,28.52,Mustard,Potash,6
+Sandy,5.6,137,130,141,45.87,30.58,Peanut,Single Super Phosphate,13
+Sandy,5.56,117,112,208,27.12,26.68,Peanut,Single Super Phosphate,11
+Clay,6.71,80,82,179,12.13,23.4,Rice,Urea,5
+Loamy,5.72,89,111,139,35.18,25.51,Maize,DAP,3
+Loamy,6.99,151,60,140,44.86,23.31,Maize,DAP,6
+Silty,6.08,100,80,205,16.61,20.85,Tomato,Compost,12
+Clay,6.39,142,137,206,44.18,29.58,Sugarcane,MOP,7
+Loamy,7.36,135,95,237,16.78,32.27,Barley,Ammonium Nitrate,6
+Clay,7.41,161,67,260,49.68,30.58,Rice,Urea,13
+Chalky,6.55,106,43,203,30.5,26.7,Broccoli,Urea,5
+Peaty,6.18,148,109,281,18.16,34.32,Lettuce,Compost,9
+Silty,5.74,175,150,141,27.39,33.64,Cabbage,Vermicompost,9
+Sandy,6.08,69,146,215,27.69,28.27,Peanut,Single Super Phosphate,6
+Loamy,6.36,128,122,265,21.29,34.88,Maize,DAP,11
+Sandy,6.13,65,141,149,25.04,25.79,Potato,NPK,9
+Loamy,6.01,69,138,123,42.36,34.95,Wheat,Urea,13
+Sandy,6.24,50,120,278,48.76,34.45,Peanut,Single Super Phosphate,9
+Peaty,7.44,183,53,224,24.52,31.56,Spinach,Organic Fertilizer,10
+Clay,7.04,177,78,264,15.85,24.95,Rice,Urea,9
+Silty,6.23,55,36,224,43.73,20.9,Tomato,Compost,6
+Loamy,6.04,142,41,169,28.31,32.68,Wheat,Urea,6
+Loamy,6.97,200,89,175,40.82,24.3,Maize,DAP,10
+Sandy,5.89,113,42,236,13.4,24.87,Potato,NPK,8
+Peaty,7.14,54,96,200,41.61,28.47,Lettuce,Compost,11
+Silty,6.89,124,63,235,21.55,25.07,Tomato,Compost,4
+Loamy,6.93,112,38,125,21.03,32.38,Wheat,Urea,8
+Clay,5.51,107,130,227,47.39,32.28,Cotton,NPK,10
+Sandy,5.61,178,91,269,47.42,21.64,Peanut,Single Super Phosphate,11
+Clay,6.84,119,85,183,20.78,22.57,Rice,Urea,5
+Sandy,5.93,114,139,109,47.31,34.35,Potato,NPK,11
+Sandy,5.52,135,107,272,46.4,22.59,Carrot,Potash,7
+Silty,7.03,90,37,108,23.18,22.22,Tomato,Compost,11
+Chalky,7.1,122,49,191,16.04,27.73,Broccoli,Urea,15
+Clay,6.68,111,66,171,32.75,29.52,Cotton,NPK,5
+Peaty,6.48,100,92,261,26.26,22.01,Onion,Ammonium Sulphate,6
+Loamy,7.07,179,104,125,48.26,22.37,Maize,DAP,10
+Sandy,5.56,126,89,186,17.19,21.63,Carrot,Potash,15
+Silty,7.35,58,126,189,41.29,27.39,Soybean,Bone Meal,15
+Clay,7.26,60,40,263,38.22,32.04,Sugarcane,MOP,10
+Chalky,6.03,127,39,207,37.17,26.05,Beetroot,NPK,9
+Peaty,5.95,137,76,168,17.76,20.64,Lettuce,Compost,14
+Silty,7.19,61,30,123,35.63,25.89,Cabbage,Vermicompost,11
+Peaty,7.41,114,78,182,37.89,25.48,Lettuce,Compost,12
+Peaty,6.42,126,128,168,30.28,29.55,Spinach,Organic Fertilizer,4
+Sandy,7.42,111,54,282,40.16,28.33,Potato,NPK,14
+Silty,6.1,89,65,205,29.1,22.78,Soybean,Bone Meal,13
+Loamy,6.43,74,66,240,24.53,20.16,Wheat,Urea,11
+Sandy,5.75,145,100,274,41.89,29.43,Potato,NPK,5
+Loamy,6.35,104,80,180,33.04,29.02,Maize,DAP,8
+Clay,6.53,106,76,172,41.27,33.56,Sugarcane,MOP,7
+Peaty,5.7,198,78,253,40.53,34.95,Spinach,Organic Fertilizer,4
+Peaty,6.99,59,110,277,24.04,29.67,Lettuce,Compost,4
+Silty,6.8,148,50,160,20.42,20.02,Soybean,Bone Meal,14
+Silty,6.78,59,31,149,12.99,29.98,Cabbage,Vermicompost,12
+Chalky,6.15,63,140,261,25.94,24.93,Broccoli,Urea,12
+Loamy,6.58,83,69,192,13.16,31.28,Barley,Ammonium Nitrate,4
+Clay,5.89,131,44,272,33.45,33.21,Cotton,NPK,9
+Silty,6.49,131,101,178,27.96,34.57,Tomato,Compost,14
+Peaty,6.74,117,122,182,34.76,33.0,Spinach,Organic Fertilizer,6
+Sandy,6.7,53,102,208,27.44,30.42,Potato,NPK,14
+Peaty,7.26,144,70,230,24.09,31.78,Onion,Ammonium Sulphate,15
+Peaty,6.91,144,82,245,47.31,33.29,Lettuce,Compost,14
+Clay,6.96,54,106,290,13.17,25.83,Sugarcane,MOP,13
+Silty,6.1,155,105,187,19.09,30.23,Tomato,Compost,11
+Loamy,6.63,129,102,160,34.34,26.31,Maize,DAP,8
+Silty,6.89,152,145,269,25.21,24.01,Tomato,Compost,7
+Peaty,7.33,78,78,100,18.19,29.12,Onion,Ammonium Sulphate,10
+Peaty,6.05,159,86,269,31.37,32.94,Spinach,Organic Fertilizer,10
+Sandy,6.29,95,78,219,29.5,33.96,Potato,NPK,8
+Chalky,7.36,55,114,250,42.42,22.83,Broccoli,Urea,10
+Silty,6.33,98,116,186,14.69,33.36,Tomato,Compost,7
+Chalky,6.47,97,96,214,44.43,26.74,Beetroot,NPK,13
+Loamy,6.47,180,84,148,48.54,34.82,Maize,DAP,14
+Loamy,6.75,141,140,101,39.28,23.89,Barley,Ammonium Nitrate,14
+Peaty,6.05,145,124,243,37.11,30.57,Onion,Ammonium Sulphate,9
+Silty,6.8,147,41,229,40.89,26.95,Soybean,Bone Meal,15
+Loamy,6.52,73,67,167,37.08,32.37,Barley,Ammonium Nitrate,4
+Chalky,7.16,114,147,253,46.91,33.01,Broccoli,Urea,4
+Silty,6.03,196,61,237,37.87,32.69,Tomato,Compost,15
+Silty,6.43,87,75,181,28.5,29.82,Cabbage,Vermicompost,3
+Sandy,6.8,148,42,136,11.4,25.06,Peanut,Single Super Phosphate,5
+Sandy,7.43,88,123,216,19.58,28.91,Potato,NPK,3
+Peaty,6.33,190,91,216,40.23,27.39,Lettuce,Compost,7
+Loamy,6.95,192,108,109,23.08,31.71,Maize,DAP,12
+Peaty,6.29,152,45,286,39.95,23.6,Onion,Ammonium Sulphate,6
+Loamy,6.15,156,93,205,45.7,26.38,Barley,Ammonium Nitrate,12
+Peaty,6.63,144,36,155,12.84,21.69,Lettuce,Compost,9
+Peaty,6.68,89,50,141,29.31,30.01,Lettuce,Compost,3
+Chalky,5.71,77,39,209,16.01,32.43,Beetroot,NPK,6
+Loamy,5.9,115,96,223,12.06,29.16,Maize,DAP,12
+Clay,7.47,185,60,244,21.84,29.46,Cotton,NPK,11
+Clay,5.81,90,45,243,22.8,32.48,Sugarcane,MOP,9
+Silty,7.17,114,31,105,32.64,33.69,Tomato,Compost,4
+Silty,6.0,127,142,287,29.96,27.83,Tomato,Compost,4
+Sandy,5.91,173,117,227,11.6,29.1,Carrot,Potash,5
+Loamy,6.2,146,87,259,42.94,22.55,Maize,DAP,8
+Silty,5.9,190,51,272,25.85,20.51,Soybean,Bone Meal,11
+Silty,5.66,199,49,223,13.68,32.16,Tomato,Compost,10
+Loamy,6.88,198,97,166,44.88,30.62,Wheat,Urea,12
+Clay,6.17,112,149,162,21.06,30.73,Rice,Urea,15
+Clay,6.29,198,84,115,31.28,27.58,Cotton,NPK,12
+Clay,7.12,161,124,206,36.51,33.54,Sugarcane,MOP,6
+Loamy,5.88,72,136,265,25.93,20.48,Maize,DAP,11
+Loamy,6.44,138,85,287,20.73,30.8,Maize,DAP,11
+Chalky,7.48,163,76,262,39.35,24.32,Mustard,Potash,11
+Peaty,7.46,94,144,222,28.99,30.46,Lettuce,Compost,6
+Clay,6.91,113,70,202,45.21,20.92,Cotton,NPK,11
+Silty,7.15,155,138,227,46.33,31.38,Soybean,Bone Meal,15
+Peaty,7.34,119,67,127,29.91,30.61,Onion,Ammonium Sulphate,13
+Loamy,6.09,62,70,279,47.98,25.1,Wheat,Urea,8
+Loamy,5.97,74,131,190,36.76,33.27,Barley,Ammonium Nitrate,13
+Clay,6.41,74,108,143,29.65,23.09,Sugarcane,MOP,12
+Sandy,7.0,81,93,208,42.94,23.11,Peanut,Single Super Phosphate,12
+Sandy,6.28,53,98,270,25.8,29.47,Potato,NPK,5
+Loamy,6.96,75,61,191,48.19,33.08,Barley,Ammonium Nitrate,10
+Clay,7.18,178,30,166,47.69,31.79,Rice,Urea,10
+Sandy,6.78,73,96,138,16.19,26.96,Peanut,Single Super Phosphate,6
+Clay,6.19,85,140,285,39.3,32.65,Cotton,NPK,6
+Sandy,6.99,129,140,277,25.49,22.98,Potato,NPK,7
+Silty,5.97,172,118,170,34.06,25.18,Soybean,Bone Meal,13
+Peaty,6.82,91,58,115,46.22,22.94,Spinach,Organic Fertilizer,7
+Sandy,7.32,88,82,127,11.53,28.95,Peanut,Single Super Phosphate,10
+Loamy,6.14,174,55,267,29.58,24.18,Barley,Ammonium Nitrate,5
+Loamy,7.21,134,57,225,25.71,21.59,Maize,DAP,7
+Loamy,6.45,127,83,129,47.18,34.46,Maize,DAP,4
+Peaty,6.9,124,49,190,43.58,33.29,Spinach,Organic Fertilizer,8
+Loamy,6.06,181,103,203,25.13,34.9,Wheat,Urea,10
+Chalky,6.41,186,150,161,45.04,30.54,Mustard,Potash,13
+Clay,5.81,146,66,110,18.02,32.14,Cotton,NPK,4
+Peaty,7.49,162,66,149,27.58,30.89,Spinach,Organic Fertilizer,8
+Chalky,5.57,151,45,226,15.94,27.48,Broccoli,Urea,10
+Peaty,6.72,73,69,264,23.99,34.96,Lettuce,Compost,4
+Chalky,6.14,132,111,124,36.12,31.79,Mustard,Potash,10
+Loamy,5.74,165,43,148,22.64,33.32,Wheat,Urea,15
+Silty,7.36,186,120,195,41.69,28.13,Tomato,Compost,5
+Clay,6.47,86,48,147,46.98,30.1,Rice,Urea,12
+Chalky,7.1,179,71,293,25.05,22.62,Beetroot,NPK,5
